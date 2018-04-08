@@ -6,7 +6,7 @@ baseurl: '/PanelCV' #change it according to your repository name
 
 
 # Profile information
-yourname: Welinton Troyner  ## put your name
+yourname: Welinton ## put your name
 title: 'Pesquisador de fontes abertas'  ## your title
 location: Ponta Grossa , PR
 
